@@ -1,0 +1,15 @@
+{
+  "name": "exercise-3-node-msql",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Mateus Ferro",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
